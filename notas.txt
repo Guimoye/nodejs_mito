@@ -1,0 +1,9 @@
+
+
+npm express --save //para guardar en modulo de paquete en json 
+npm install //para obtener nuevo proyecto que no tiene modulo de paquete
+npm install lodash // no es recomendable instalar modulos asi
+npm init // para crear el package
+npm i lodash --save // para gregar paquetes al modulo como dependencias
+npm uninstall lodash --save // para desinstalar un modulo
+nodemon app.js //para correr cualquier proyecto y ver la debugger en tiempo real
